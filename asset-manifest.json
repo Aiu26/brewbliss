@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brewbliss/static/css/main.93cd0205.css",
+    "main.js": "/brewbliss/static/js/main.2132ab9b.js",
+    "static/js/787.98749667.chunk.js": "/brewbliss/static/js/787.98749667.chunk.js",
+    "index.html": "/brewbliss/index.html",
+    "main.93cd0205.css.map": "/brewbliss/static/css/main.93cd0205.css.map",
+    "main.2132ab9b.js.map": "/brewbliss/static/js/main.2132ab9b.js.map",
+    "787.98749667.chunk.js.map": "/brewbliss/static/js/787.98749667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93cd0205.css",
+    "static/js/main.2132ab9b.js"
+  ]
+}
